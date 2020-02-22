@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Log.i("TAG","git");
+        Log.i("TAG","git");
 
     }
 }
